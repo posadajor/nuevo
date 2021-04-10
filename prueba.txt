@@ -1,2 +1,5 @@
 linea uno inicio
 linea 2 anadir
+linea 3 anadida en esclava
+linea 3 anadida en master
+linea 4 anadida en esclava
